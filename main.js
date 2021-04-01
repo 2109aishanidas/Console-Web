@@ -1,0 +1,8 @@
+console.log("This blog is dedicated to my pet fish .Here is her autobiography")
+console.log("Hi, I am a blue fighter fish. I have a little red in my fins and in my tail. My name is Clara. I live in a fish bowl. My owner's name is Aishani. It's been five months since I am here. I love her. Whenever she comes from school, I rush to the front of the door to welcom her . Her grandmother give me food in the morning. She always gives it to me in time. though my food isn't very tasty and intresting, I eat it. Her mother also loves me very much. She cleans my water. somtimes she forgets but I am ok with it. sometimes I feel very bored swimming, So I just float. Some times when I am happy, I swim very fast. Here is a list of what I like :-")
+console.log("My Hobby- Splashing around")
+console.log("My Work- Swimming")
+console.log("My Pourpose- Being The Worlds Best Pet")
+console.log("My Favourite Food- Fish food")
+console.log("My Favourite Person- Aishani")
+console.log("What I liked to do when Aishani was around- Show my Beauty")

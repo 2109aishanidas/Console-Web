@@ -1,0 +1,19 @@
+body {
+    background: linear-gradient(aqua, aquamarine);
+    text-align: center;
+    color: #f50057;
+  }
+  li {
+    font-family: Montserrat, sans-serif;
+    color: #ab47bc;
+  }
+  h1 {
+    color: #607d8b;
+  }
+  h3 {
+    color: #ff9800;
+  }
+  u {
+    color: black;
+  }
+  
